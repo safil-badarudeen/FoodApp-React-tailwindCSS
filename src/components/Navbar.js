@@ -57,7 +57,7 @@ function Navbar() {
       {/* overlay */}
       {nav ? (
         <div
-          className=" fixed bg-black/80 fixed w-full h-screen z-10 
+          className=" fixed bg-black/80 w-full h-screen z-10 
                top-10 left-0"
         />
       ) : (
